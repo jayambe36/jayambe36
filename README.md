@@ -4,19 +4,26 @@
   
 </p>
 
+
+
+
 <div align="center">
   
-[![Years Badge](https://badges.pufler.dev/years/AbdallahHemdan)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/smitpatel9898)](https://badges.pufler.dev)
 [![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/india.html)
-[![Repos Badge](https://badges.pufler.dev/repos/AbdallahHemdan)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/smitpatel9898)](https://badges.pufler.dev)
 
 </div>
+
+
+
+
 
 # Hey <img src="https://github.com/smitpatel9898/smitpatel9898/blob/master/wave.gif" width="40px">, I'm [Smit!](https://github.com/smitpatel9898) 
 
 <br/>
 
-<a href="https://https://www.linkedin.com/in/smitpatel9898/">
+<a href="https://www.linkedin.com/in/smitpatel9898/">
   <img align="left" alt="Smit's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100029018972400">
@@ -36,18 +43,22 @@
 </a>
 
 
+
+
+
+
 <br />
 <br />
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
-- <img src="https://github.com/smitpatel9898/smitpatel9898/blob/master/Instabug-Logomark_color.png" width="25" draggable="false"> Software Enginner<a href="https://instabug.com/"> @Instabug </a>
 
-- <img src="https://github.com/smitpatel9898/smitpatel9898/blob/master/logo221.png" width="25" draggable="false"> Computer Science and Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Student of Engineering Ganpat University</a>
+- <img src="https://github.com/smitpatel9898/smitpatel9898/blob/master/logo221.png" width="25" draggable="false"> Computer Science and Engineering Student  <a href="https://www.ict.gnu.ac.in/">@Student of Engineering Ganpat University</a>
 
 - <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="25" draggable="false"> I am passionate about Front-End, Competitive Programming and Computer vision
 
-- <img src="https://image.flaticon.com/icons/svg/3034/3034572.svg" width="25" draggable="false"> Currently learning storybook and how to use it with vue
+- <img src="https://image.flaticon.com/icons/svg/3034/3034572.svg" width="25" draggable="false"> Currently learning Data Structures and Algorithm
+
 - <img src="https://www.clipartsfree.net/vector/large/60735-mechanics-icon-clipart.png" width="25" draggable="false"> progressive web apps
 
 - <img src="https://image.flaticon.com/icons/svg/3094/3094869.svg" width="25" draggable="false"> Ask me about anything, I will be happy to help
@@ -55,19 +66,35 @@
 
 
 
+
+
+
+
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
+
+
 
 <p align="left">
   
+
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smitpatel9898&show_icons=true&theme=radical)
 
 </p>
