@@ -37,7 +37,7 @@
 <a href="https://www.hackerrank.com/SMITPATEL9898">
   <img align="left" alt="Smit's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
 </a>
-<a href="smitrpatel19@gnu.ac.in">
+<a href="mailto:smitrpatel9@gnu.ac.in?Subject=Help">
   <img align="left" alt="Smit's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
 </a>
 
