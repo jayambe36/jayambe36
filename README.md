@@ -22,7 +22,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/smitpatel9898/">
+<a href="https://www.linkedin.com/in/jayambe/">
   <img align="left" alt="Smit's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100029018972400">
