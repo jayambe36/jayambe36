@@ -52,7 +52,7 @@
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
 
-- <img src="https://github.com/smitpatel9898/smitpatel9898/blob/master/logo221.png" width="25" draggable="false"> Computer Science and Engineering Student  <a href="https://www.ict.gnu.ac.in/">@Student of Engineering Ganpat University</a>
+- <img src="https://github.com/smitpatel9898/smitpatel9898/blob/master/logo221.png" width="25" draggable="false"> Computer Science and Engineering Student  <a href="https://www.ict.gnu.ac.in/">@Student of Computer Science and Engineering At ICT Ganpat University</a>
 
 - <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="25" draggable="false"> I am passionate about Front-End, Competitive Programming and Computer vision
 
