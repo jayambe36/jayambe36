@@ -9,8 +9,8 @@
 
 <div align="center">
   
-[![Years Badge](https://badges.pufler.dev/years/smitpatel9898)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/smitpatel9898)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/JAYAMBEMAAA)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/JAYAMBEMAAA)](https://badges.pufler.dev)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 
 
-# Hey <img src="https://github.com/smitpatel9898/smitpatel9898/blob/master/wave.gif" width="40px">, I'm [Smit!](https://github.com/smitpatel9898) 
+# Hey <img src="https://github.com/JAYAMBEMAAA/JAYAMBEMAAA/blob/master/wave.gif" width="40px">, I'm [Smit!](https://github.com/JAYAMBEMAAA) 
 
 <br/>
 
