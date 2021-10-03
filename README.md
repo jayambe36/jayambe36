@@ -87,7 +87,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smit&show_icons=true&theme=radical)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
+
 
 </p>
 
