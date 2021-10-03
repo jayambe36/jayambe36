@@ -18,7 +18,7 @@
 
 
 
-# Hey <img src="https://github.com/jayambeprogrammer/jayambeprogrammer/blob/master/wave.gif" width="40px">, I'm [Smit!](https://github.com/JAYAMBEMAAA) 
+# Hey <img src="https://github.com/jayambeprogrammer/jayambeprogrammer/blob/master/wave.gif" width="40px">, I'm [Smit Patel!](https://github.com/JAYAMBEMAAA) 
 
 <br/>
 
