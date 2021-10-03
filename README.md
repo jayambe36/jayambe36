@@ -18,7 +18,7 @@
 
 
 
-# Hey <img src="https://github.com/JAYAMBEMAAA/JAYAMBEMAAA/blob/master/wave.gif" width="40px">, I'm [Smit!](https://github.com/JAYAMBEMAAA) 
+# Hey <img src="https://github.com/jayambeprogrammer/jayambeprogrammer/blob/master/wave.gif" width="40px">, I'm [Smit!](https://github.com/JAYAMBEMAAA) 
 
 <br/>
 
@@ -31,7 +31,7 @@
 <a href="https://www.instagram.com/s_mit_9898/">
   <img align="left" alt="Smit's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" draggable="false" />
 </a>
-<a href="https://github.com/smitpatel9898">
+<a href="https://github.com/jayambeprogrammer">
   <img align="left" alt="Smit's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
 </a>
 <a href="https://www.hackerrank.com/SMITPATEL9898">
@@ -52,7 +52,7 @@
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
 
-- <img src="https://github.com/smitpatel9898/smitpatel9898/blob/master/logo221.png" width="25" draggable="false"> Computer Science and Engineering Student  <a href="https://www.ict.gnu.ac.in/">@Student of Computer Science and Engineering At ICT Ganpat University</a>
+- <img src="https://github.com/jayambeprogrammer/jayambeprogrammer/blob/master/logo221.png" width="25" draggable="false"> Computer Science and Engineering Student  <a href="https://www.ict.gnu.ac.in/">@Student of Computer Science and Engineering At ICT Ganpat University</a>
 
 - <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="25" draggable="false"> I am passionate about Front-End, Competitive Programming and Computer vision
 
@@ -87,8 +87,7 @@
 
 
 
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 </p>
 
