@@ -87,7 +87,7 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smitpatel9898&show_icons=true&theme=radical)
+![Smit's github stats](https://github-readme-stats.vercel.app/api?username=jayambeprogrammershow_icons=true&theme=radical)
 
 </p>
 
