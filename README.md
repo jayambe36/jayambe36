@@ -28,10 +28,7 @@
 <a href="https://www.facebook.com/profile.php?id=100029018972400">
   <img align="left" alt="Smit's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
 </a>
-<a href="https://www.instagram.com/s_mit/">
-  <img align="left" alt="Smit's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" draggable="false" />
-</a>
-<a href="https://github.com/jayambe36">
+<a href="https://github.com/JayAmbeProgrammer">
   <img align="left" alt="Smit's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
 </a>
 <a href="https://www.hackerrank.com/jayambe36">
