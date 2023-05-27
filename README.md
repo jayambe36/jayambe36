@@ -53,12 +53,15 @@
 
 - 🔭 I’m currently working on ...**Algorithm Development**
 - 🌱 I’m currently learning ... **Branding and Optimize Programming**
-- 👯 I’m looking to collaborate on **YouTube**
+- 👯 I’m looking to collaborate on ... **YouTube and Open Source Projects**
+- 🤔 I’m looking for help with ... **Data Science**
 - 👊🤜 I always had a fight with me VS me 
-- 💬 Ask me about ... iOS App Develpoment, Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38">
+- 💬 Ask me about ... Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38">
+- 📃 My blogging website ... https://jayambe36.github.io/
+- 📃My Portfolio website ... https://jayambe36.github.io/
 - 📫 How to reach me: ... **smitrpatel19@gmail.com**
 - ▶️ My YouTube channel: ... **@DailyCodingWorkout** 
-- ⚡ Fun fact: ... I love to Solve Problems. **I can do leetcode and gfg problems every day**
+- ⚡ Fun fact: ... I love to Solve Problems. **I can do leetcode and gfg problems every day [Workaholic Person]**
 
 ## 🚀 Languages and Tools :: </> 
 <p align="left"> 
