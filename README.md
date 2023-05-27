@@ -4,21 +4,12 @@
   
 </p>
 
-
-
-
 <div align="center">
   
 [![Years Badge](https://badges.pufler.dev/years/JAYAMBEMAAA)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/JAYAMBEMAAA)](https://badges.pufler.dev)
 
 </div>
-
-
-
-
-
-# Hey <img src="https://github.com/jayambeprogrammer/jayambeprogrammer/blob/master/wave.gif" width="40px">, I'm [Smit Patel!](https://github.com/JAYAMBEMAAA) 
 
 <br/>
 
@@ -28,7 +19,7 @@
 <a href="https://www.facebook.com/profile.php?id=100029018972400">
   <img align="left" alt="Smit's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
 </a>
-<a href="https://github.com/JayAmbeProgrammer">
+<a href="https://github.com/jayambe36">
   <img align="left" alt="Smit's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
 </a>
 <a href="https://www.hackerrank.com/jayambe36">
@@ -39,33 +30,9 @@
 </a>
 
 
-
-
-
-
 <br />
 <br />
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
-
-
-- <img src="https://github.com/jayambeprogrammer/jayambeprogrammer/blob/master/logo221.png" width="25" draggable="false"> Computer Science and Engineering Student  <a href="https://www.ict.gnu.ac.in/">@Student of Computer Science and Engineering At ICT Ganpat University</a>
-
-- <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="25" draggable="false"> I am passionate about Front-End, Competitive Programming and Computer vision
-
-- <img src="https://image.flaticon.com/icons/svg/3034/3034572.svg" width="25" draggable="false"> Currently learning Data Structures and Algorithm
-
-- <img src="https://image.flaticon.com/icons/svg/888/888953.svg" width="25" draggable="false"> progressive web apps
-
-- <img src="https://image.flaticon.com/icons/svg/3094/3094869.svg" width="25" draggable="false"> Ask me about anything, I will be happy to help
-
-
-
-
-<!-- <a href="#"><img width="1280" height="576" src="https://github.com/jsm-28415/Personal/blob/main/7YQo.gif" height="175px"/></a> -->
-<!-- <a href="#"><img width="1000" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker%20(11).gif" height="175px"/></a> -->
-
-<a href="#"><img width="800" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker%20(5).gif" height="175px"/></a>
 
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> there, fellow DEVELOPER'S</h1>
@@ -90,14 +57,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...**iOS Development**
-- 🌱 I’m currently learning ... **Marketing & Branding**
+- 🔭 I’m currently working on ...**Algorithm Development**
+- 🌱 I’m currently learning ... **Branding and Optimize Programming**
 - 👯 I’m looking to collaborate on **YouTube**
 - 👊🤜 I always had a fight with me VS me 
 - 💬 Ask me about ... iOS App Develpoment, Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38">
-- 📫 How to reach me: ... **jsm.28415@gmail.com**
-- ▶️ My YouTube channel: ... **hi_malik** 
-- ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day**
+- 📫 How to reach me: ... **smitrpatel19@gmail.com**
+- ▶️ My YouTube channel: ... **@DailyCodingWorkout** 
+- ⚡ Fun fact: ... I love to Solve Problems. **I can do leetcode and gfg problems every day**
 
 ## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 <p align="left"> 
@@ -134,8 +101,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/hi-malik/github-readme-stats"><img alt="Himanshu Malik Github Stats" src="https://github-readme-stats.vercel.app/api?username=hi-malik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/hi-malik/github-readme-stats"><img alt="Himanshu Malik Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-malik&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/hi-malik/github-readme-stats"><img alt="jayambe36 Github Stats" src="https://github-readme-stats.vercel.app/api?username=hi-malik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/hi-malik/github-readme-stats"><img alt="Smit PATEL Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-malik&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -143,7 +110,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/hi-malik/github-readme-activity-graph"><img alt="Himanshu Malik Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hi-malik&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/hi-malik/github-readme-activity-graph"><img alt="Smit PATEL Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hi-malik&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -151,10 +118,10 @@
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/himanshu-malik-54728917a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/MalikHacking"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/its_himanshu2000"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCB56-AiILovestYUPiGq8ng"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/jayambe/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/jayambe36"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/dsa.build"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UCqb4iR2fqzl6xmWnkBZAuBA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
