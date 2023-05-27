@@ -13,20 +13,11 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/jayambe/">
-  <img align="left" alt="Smit's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
-</a>
 <a href="https://www.facebook.com/profile.php?id=100029018972400">
   <img align="left" alt="Smit's Facebook" width="30px" src="[https://image.flaticon.com/icons/svg/2111/2111342.svg](https://www.svgrepo.com/show/452196/facebook-1.svg)" draggable="false" />
 </a>
-<a href="https://github.com/jayambe36">
-  <img align="left" alt="Smit's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
-</a>
 <a href="https://www.hackerrank.com/jayambe36">
   <img align="left" alt="Smit's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
-</a>
-<a href="mailto:smitrpatel9@gnu.ac.in?Subject=Help">
-  <img align="left" alt="Smit's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
 </a>
 <a href="mailto:smitrpatel9@gnu.ac.in?Subject=Help">
   <img align="left" alt="Smit's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
