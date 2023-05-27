@@ -45,9 +45,9 @@
   
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+SmitPATEL!;
-I'm+a+Software+Developer+❤.;❤+CPP+LeetCode+PYTHON+❤;I+❤+DSA !!..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+SmitPATEL;I'm+a+Software+Developer❤❤❤;❤+CPP+LeetCode+PYTHON+❤❤;I+❤+DSA...)](https://git.io/typing-svg)
 </div>
+
 
 
 ## 🙋‍♂️ About Me
