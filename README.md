@@ -123,13 +123,14 @@
 
 
 </p>
+
 ## My YouTube Channel
 
 <img align="left" alt="YouTube GIF" width="auto" height="576" src="https://github.com/hi-malik/Personal/blob/main/ezgif.com-gif-maker.gif">
 
 ## ❤ Views and Followers
 <a href="https://github.com/jayambe36/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=jayambe36">
+    <img src="https://komarev.com/ghpvc/?username=hi-malik">
 </a>
 <a href="https://github.com/jayambe36?tab=followers"><img src="https://img.shields.io/github/followers/hi-malik?label=Followers&style=social" alt="GitHub Badge"></a>
 
