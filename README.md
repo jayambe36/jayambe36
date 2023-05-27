@@ -116,7 +116,7 @@
 <a href = "https://twitter.com/jayambe36"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/dsa.build"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCqb4iR2fqzl6xmWnkBZAuBA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href="https://www.hackerrank.com/jayambe36"><img  src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279"/></a>
+<a href="https://www.hackerrank.com/jayambe36"><img  src="https://icons8.com/icon/mcCRHk2xvR7f/code.png"/></a>
 
 </p>
 ## My YouTube Channel
