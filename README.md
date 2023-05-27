@@ -8,7 +8,6 @@
 
 [![Years Badge](https://badges.pufler.dev/years/jayambe36)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/jayambe36)](https://badges.pufler.dev)
-[![Visit Badge](https://badges.pufler.dev/visits/jayambe36/badge-it)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/jayambe36/pujux)](https://badges.pufler.dev)
 
   </div>
