@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="https://www.facebook.com/profile.php?id=100029018972400">
+<a href="">
   <img align="left" alt="Smit's Facebook" width="30px" src="[https://image.flaticon.com/icons/svg/2111/2111342.svg](https://www.svgrepo.com/show/452196/facebook-1.svg)" draggable="false" />
 </a>
 <a href="https://www.hackerrank.com/jayambe36">
@@ -116,6 +116,8 @@
 <a href = "https://twitter.com/jayambe36"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/dsa.build"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCqb4iR2fqzl6xmWnkBZAuBA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100029018972400"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+
 
 </p>
 ## My YouTube Channel
