@@ -5,11 +5,16 @@
 </p>
 
 <div align="center">
-  
-[![Years Badge](https://badges.pufler.dev/years/JAYAMBEMAAA)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/JAYAMBEMAAA)](https://badges.pufler.dev)
 
-</div>
+[![Years Badge](https://badges.pufler.dev/years/jayambe36)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/jayambe36)](https://badges.pufler.dev)
+[![Visit Badge](https://badges.pufler.dev/visits/jayambe36)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/jayambe36)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/jayambe36/badge-it)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/jayambe36/badge-it)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/jayambe36/pujux)](https://badges.pufler.dev)
+
+  </div>
 
 <br/>
 
