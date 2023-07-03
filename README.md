@@ -137,7 +137,7 @@
 <a href="https://github.com/jayambe36?tab=followers"><img src="https://img.shields.io/github/followers/hi-malik?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/hi-malik/hi-malik/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/jayambe36/jayambe36/blob/output/github-contribution-grid-snake.gif)
 
 
 <div align="center">
