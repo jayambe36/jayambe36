@@ -99,8 +99,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/jayambe36/github-readme-activity-graph"><img alt="Smit PATEL Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hi-malik&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
