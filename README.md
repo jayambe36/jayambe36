@@ -122,7 +122,7 @@
 <a href="https://github.com/jayambe36/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=hi-malik">
 </a>
-<a href="https://github.com/jayambe36?tab=followers"><img src="https://img.shields.io/github/followers/hi-malik?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/jayambe36?tab=followers"><img src="https://img.shields.io/github/followers/jayambe36?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## ❤ LeetCode
 <h3 align="left"></h3>
