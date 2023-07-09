@@ -77,8 +77,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/hi-malik/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Himanshu Malik streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hi-malik&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/jayambe36/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Himanshu Malik streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayambe36&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
