@@ -124,7 +124,8 @@
 </a>
 <a href="https://github.com/jayambe36?tab=followers"><img src="https://img.shields.io/github/followers/hi-malik?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<h3 align="left">LeetCode:</h3>
+## ❤ LeetCode
+<h3 align="left"></h3>
   <a href="https://leetcode.com/jayambe36/">
   <img src="https://leetcard.jacoblin.cool/jayambe36?ext=contest&theme=light,unicorn" alt="Leetcode Stats">
   </a>
