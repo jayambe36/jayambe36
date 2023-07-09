@@ -13,18 +13,6 @@
   </div>
 
 <br/>
-
-<a href="">
-  <img align="left" alt="Smit's Facebook" width="30px" src="[https://image.flaticon.com/icons/svg/2111/2111342.svg](https://www.svgrepo.com/show/452196/facebook-1.svg)" draggable="false" />
-</a>
-<a href="https://www.hackerrank.com/jayambe36">
-  <img align="left" alt="Smit's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
-</a>
-<a href="mailto:smitrpatel9@gnu.ac.in?Subject=Help">
-  <img align="left" alt="Smit's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
-</a>
-
-
 <br />
 <br />
 
@@ -66,7 +54,9 @@
 - ⚡ Fun fact: ... I love to Solve Problems. **I can do leetcode and gfg problems every day [Workaholic Person]**
 
 ## 🚀 Languages and Tools :: </> 
-<p align="left"> 
+
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
