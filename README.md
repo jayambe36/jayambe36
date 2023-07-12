@@ -14,14 +14,22 @@
 </a>
 <a href="https://github.com/jayambe36?tab=followers"><img src="https://img.shields.io/github/followers/jayambe36?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
-<a href="https://github.com/jayambe36/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/jayambe36/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/jayambe36/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/jayambe36/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/jayambe36/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/jayambe36/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/jayambe36/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/jayambe36/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/jayambe36/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/jayambe36/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/jayambe36/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/jayambe36/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
-
+ <a href="https://github.com/Charmve">
+    <img src="https://badges.strrl.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Charmve">
+    <img src="https://badges.strrl.dev/years/Charmve?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Charmve?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/Charmve?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://gist.github.com/Charmve">
+    <img src="https://badges.strrl.dev/gists/Charmve?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Charmve">
+    <img src="https://badges.strrl.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
+  </a>
+  
   </div>
 
 <br/>
