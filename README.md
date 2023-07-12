@@ -14,20 +14,20 @@
 </a>
 <a href="https://github.com/jayambe36?tab=followers"><img src="https://img.shields.io/github/followers/jayambe36?label=Followers&style=social" alt="GitHub Badge"></a>
 
- <a href="https://github.com/Charmve">
-    <img src="https://badges.strrl.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
+ <a href="https://github.com/jayambe36">
+    <img src="https://badges.strrl.dev/visits/jayambe36/jayambe36?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.strrl.dev/years/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/jayambe36">
+    <img src="https://badges.strrl.dev/years/jayambe36?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/jayambe36?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/jayambe36?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/Charmve">
-    <img src="https://badges.strrl.dev/gists/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://gist.github.com/jayambe36">
+    <img src="https://badges.strrl.dev/gists/jayambe36?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.strrl.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/jayambe36">
+    <img src="https://badges.strrl.dev/commits/monthly/jayambe36?style=flat-square&color=black&logo=github">
   </a>
   
   </div>
