@@ -6,15 +6,11 @@
 
 <div align="center">
 
-[![Years Badge](https://badges.pufler.dev/years/jayambe36)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/jayambe36)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/jayambe36/pujux)](https://badges.pufler.dev)
-<a href="https://github.com/jayambe36/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=jayambe36">
-</a>
-<a href="https://github.com/jayambe36?tab=followers"><img src="https://img.shields.io/github/followers/jayambe36?label=Followers&style=social" alt="GitHub Badge"></a>
 
- <a href="https://github.com/jayambe36">
+  <a href="https://github.com/jayambe36?tab=followers">
+    <img src="https://img.shields.io/github/followers/jayambe36?style=flat-square&color=black&logo=github" alt="GitHub Badge">
+  </a>
+  <a href="https://github.com/jayambe36">
     <img src="https://badges.strrl.dev/visits/jayambe36/jayambe36?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/jayambe36">
