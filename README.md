@@ -101,7 +101,7 @@
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=jsm-28415&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=hi-malik&column=8)](https://github-profile-trophy.vercel.app/?username=hi-malik&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jayambe36&column=8)](https://github-profile-trophy.vercel.app/?username=hi-malik&column=8)
 
 ## 📊 My Github Stats
 
