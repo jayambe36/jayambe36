@@ -130,6 +130,12 @@
 
 </p>
 
+<h2 align="center">A Joke for you!!</h2>
+ <p align="center"> 
+  <a href=# target="_blank"> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </a>
+   <p align="center"><i>Refresh to see a new one!!!</i></p>
+<div align="center">
+
 ## ❤ My YouTube Channel
 
 <img align="left" alt="YouTube GIF" width="auto" height="576" src="https://github.com/hi-malik/Personal/blob/main/ezgif.com-gif-maker.gif">
