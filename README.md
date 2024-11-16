@@ -169,40 +169,38 @@
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jayambe36&theme=blue_green&utcOffset=8)
 
 
-
-
 ## 💻 Tech Stack
 
 Here are some of the technologies and tools I work with:
 
 - **Programming Languages:** Python, HTML5, Tailwind CSS, JavaScript, C++, C, R, SCALA
 - **Frameworks:** Django, Flask, ReactJS, NodeJS, ExpressJS, ReactNative
-- **Developer Tools:** Google Colab Notebook, VSCode, R-Studio, Jupyter Notebook, Anaconda, Git, Razorpay, Cloudinary, Expo
+- **Developer Tools:** GoogleColab Notebook, VSCode, R-Studio, Jupyter Notebook, Anaconda, Git, Razorpay, Cloudinary, Expo
 - **Tech Expertise:** OOPS, API, Payment Gateway System, Image/Video Upload System, Secure Authentication (jsonwebtoken)
-- **Databases:**
+- **Databases:** 
   - MongoDB (Hybrid/Cloud - MERN Projects, ML projects with Databases)
   - Relational Database - MySQL (Queries, Joins, Trigger, Functions, Stored Procedures)
   - DynamoDB
   - SQLite (Connecting Python with Databases)
   - IBM DB2
-- **Hosting Platforms:** AWS (EC2, ECR, S3, SageMaker), Render, Vercel, Heroku, PythonAnywhere, 000webhostapp, GoDaddy, ShinyApp, GitHub Pages
+- **Hosting Platforms:** AWS (EC2, ECR, S3, Sagemaker), Render, Vercel, Heroku, PythonAnywhere, 000webhostapp, GoDaddy, Shinnyapp, GitHub Pages
 - **IBM Tools:** IBM Watson, IBM SPSS Modeler, IBM Cloud, IBM Cognos BI, IBM InfoSphere BigInsights, IBM Chatbot, IBM DB2
-- **Data Science Expertise:**
+- **Data Science Expertise:** 
   - Predictive Modeling, Statistical Analysis, MLOps, Deep Learning, Data Cleaning, Data Visualization (PowerBI, Tableau)
   - Data Mining and Warehousing (Data Cube, OLAP, Multidimensional Data Models)
   - Data Transformation, Standardization, Normalization, Handling Missing Data
   - Data Lake, JSON Data Format, ETL, Data Pipeline, Data Wrangling, Data Summarization
   - Correlation Analysis, Grouping and Aggregating Data, Web Scraping (BeautifulSoup, Scrapy)
-- **Machine Learning / AI:**
+- **Machine Learning / AI:** 
   - Supervised and Unsupervised Learning, Dimensionality Reduction, Neural Networks (ANN, RNN, CNN), NLP (Natural Language Processing)
   - Inferential Statistics, Association Rules, Classification and Prediction (K-means, Decision Tree, Bayesian Classification)
   - Clustering (KNN), Exploratory Data Analysis (EDA), ARIMA Models, Model Evaluation/Validation, Hyperparameter Tuning
-- **Big Data:**
+- **Big Data:** 
   - PySpark, Scala, Hive, HBase, Hadoop Ecosystem (HDFS, MapReduce, Yarn, PIG, HIVE, HBASE, Zookeeper)
   - Apache Spark, Statistical Analysis (Hypothesis Tests - Z-test, T-test, Chi-square Test)
   - Probability and Statistics (Measures of Central Tendency and Dispersion, Random Variables), Linear Algebra, Calculus
 - **NLP Techniques:** Bag of Words (BoW), Word2Vec, Transformers, BERT, Sentiment Analysis
-- **Libraries / Algorithms:**
+- **Libraries / Algorithms:** 
   - A* Algorithm, Scikit-learn (Regression and Classification), Ensemble Methods (Random Forest, Gradient Boosting, XGBoost)
   - TensorFlow, Keras (Deep Learning), LSTM (Time Series Prediction, NLP, Speech Recognition)
   - NLTK (Text Processing - Classification, Tokenization, Stemming, Tagging, Parsing, Semantic Reasoning)
