@@ -157,7 +157,67 @@
   <a href="https://leetcode.com/jayambe36/">
   <img src="https://leetcard.jacoblin.cool/jayambe36?ext=contest&theme=light,unicorn" alt="Leetcode Stats">
   </a>
-  
+
+## 📊 GitHub Stats
+
+[![Profile Views](https://komarev.com/ghpvc/?username=jayambe36&abbreviated=true)](https://github.com/Ayushmaanagarwal1211)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayambe36&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayambe36&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jayambe36&theme=blue-green&hide_border=true)
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayambe36&theme=blue_green)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jayambe36&theme=blue_green)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jayambe36&theme=blue_green&utcOffset=8)
+
+
+
+## 💻 Tech Stack
+
+Here are some of the technologies and tools I work with:
+
+- **Programming Languages:** Python, HTML5, Tailwind CSS, JavaScript, C++, C, R, SCALA
+- **Frameworks:** Django, Flask, ReactJS, NodeJS, ExpressJS, ReactNative
+- **Developer Tools:** GoogleColab Notebook, VSCode, R-Studio, Jupyter Notebook, Anaconda, Git, Razorpay, Cloudinary, Expo
+- **Tech Expertise:** OOPS, API, Payment Gateway System, Image/Video Upload System, Secure Authentication (jsonwebtoken)
+- **Databases:** 
+  - MongoDB (Hybrid/Cloud - MERN Projects, ML projects with Databases)
+  - Relational Database - MySQL (Queries, Joins, Trigger, Functions, Stored Procedures)
+  - DynamoDB
+  - SQLite (Connecting Python with Databases)
+  - IBM DB2
+- **Hosting Platforms:** AWS (EC2, ECR, S3, Sagemaker), Render, Vercel, Heroku, PythonAnywhere, 000webhostapp, GoDaddy, Shinnyapp, GitHub Pages
+- **IBM Tools:** IBM Watson, IBM SPSS Modeler, IBM Cloud, IBM Cognos BI, IBM InfoSphere BigInsights, IBM Chatbot, IBM DB2
+- **Data Science Expertise:** 
+  - Predictive Modeling, Statistical Analysis, MLOps, Deep Learning, Data Cleaning, Data Visualization (PowerBI, Tableau)
+  - Data Mining and Warehousing (Data Cube, OLAP, Multidimensional Data Models)
+  - Data Transformation, Standardization, Normalization, Handling Missing Data
+  - Data Lake, JSON Data Format, ETL, Data Pipeline, Data Wrangling, Data Summarization
+  - Correlation Analysis, Grouping and Aggregating Data, Web Scraping (BeautifulSoup, Scrapy)
+- **Machine Learning / AI:** 
+  - Supervised and Unsupervised Learning, Dimensionality Reduction, Neural Networks (ANN, RNN, CNN), NLP (Natural Language Processing)
+  - Inferential Statistics, Association Rules, Classification and Prediction (K-means, Decision Tree, Bayesian Classification)
+  - Clustering (KNN), Exploratory Data Analysis (EDA), ARIMA Models, Model Evaluation/Validation, Hyperparameter Tuning
+- **Big Data:** 
+  - PySpark, Scala, Hive, HBase, Hadoop Ecosystem (HDFS, MapReduce, Yarn, PIG, HIVE, HBASE, Zookeeper)
+  - Apache Spark, Statistical Analysis (Hypothesis Tests - Z-test, T-test, Chi-square Test)
+  - Probability and Statistics (Measures of Central Tendency and Dispersion, Random Variables), Linear Algebra, Calculus
+- **NLP Techniques:** Bag of Words (BoW), Word2Vec, Transformers, BERT, Sentiment Analysis
+- **Libraries / Algorithms:** 
+  - A* Algorithm, Scikit-learn (Regression and Classification), Ensemble Methods (Random Forest, Gradient Boosting, XGBoost)
+  - TensorFlow, Keras (Deep Learning), LSTM (Time Series Prediction, NLP, Speech Recognition)
+  - NLTK (Text Processing - Classification, Tokenization, Stemming, Tagging, Parsing, Semantic Reasoning)
+  - Plotly, Matplotlib (Interactive Visualizations - Line Plots, Scatter Plots, Bar Charts, Histograms)
+  - Seaborn (High-level Interface for Statistical Graphics, Visualization of Univariate/Bivariate Data)
+  - SciPy (Scientific Computing), Pandas (Data Analysis/Manipulation), NumPy (Numerical Computing)
+
+
+  ![GitHub Stats](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+
+
+## 🔝 Top Contributed Repo
+
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=jayambe36&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app/api?username=Ayushmaanagarwal1211&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 
 
 ## Watch my contribution graph get eaten by the snake 🐍
