@@ -136,6 +136,12 @@
    <p align="center"><i>Refresh to see a new one!!!</i></p>
 <div align="center">
 
+
+## ✍️ Random Dev Quote
+
+[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 ## ❤ My YouTube Channel
 
 <img align="left" alt="YouTube GIF" width="auto" height="576" src="https://github.com/hi-malik/Personal/blob/main/ezgif.com-gif-maker.gif">
